@@ -74,3 +74,11 @@ Este proyecto es adecuado para:
 - Ejemplos educativos.
 - Prototipos sencillos.
 - Aprendizaje de eventos y manipulación del DOM.
+
+# Tareas pendientes:
+- [x] Añadir funciones de memoria
+- [ ] Imcluir conversión de binario a hex
+- [ ] Añadir pin de usuario
+
+# Imagen desde una URL:
+![texto alternativo](https://upload.wikimedia.org/wikipedia/commons/4/49/MOS_6502AD_4585_top.jpg)
