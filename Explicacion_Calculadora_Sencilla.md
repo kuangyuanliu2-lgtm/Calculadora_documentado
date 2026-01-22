@@ -1,7 +1,7 @@
 # 📘 Documentación del Código
 ## Calculadora Sencilla
 
-OBJETIVO DEL DOCUMENTO
+# OBJETIVO DEL DOCUMENTO
 Este documento describe el funcionamiento y la estructura de una calculadora sencilla desarrollada con HTML, CSS y JavaScript. 
 Su finalidad es servir como documentación externa para facilitar el mantenimiento, comprensión y reutilización futura del proyecto.
 
