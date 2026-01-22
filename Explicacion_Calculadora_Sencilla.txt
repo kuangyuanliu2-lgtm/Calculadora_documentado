@@ -1,0 +1,76 @@
+DOCUMENTO DE EXPLICACIÓN DEL CÓDIGO
+Calculadora Sencilla
+
+OBJETIVO DEL DOCUMENTO
+Este documento describe el funcionamiento y la estructura de una calculadora sencilla desarrollada con HTML, CSS y JavaScript. 
+Su finalidad es servir como documentación externa para facilitar el mantenimiento, comprensión y reutilización futura del proyecto.
+
+--------------------------------------------------
+1. ESTRUCTURA GENERAL
+--------------------------------------------------
+La aplicación está compuesta por tres partes principales:
+- HTML: define la estructura y los elementos de la interfaz.
+- CSS: controla el diseño visual y la presentación.
+- JavaScript: implementa la lógica de cálculo y la interacción con el usuario.
+
+--------------------------------------------------
+2. DESCRIPCIÓN DEL HTML
+--------------------------------------------------
+El documento HTML establece una página web básica con soporte para caracteres especiales en español mediante codificación UTF-8.
+Incluye configuración responsiva para dispositivos móviles.
+
+La interfaz contiene:
+- Un contenedor principal centrado que representa la calculadora.
+- Dos campos de entrada numérica para introducir valores.
+- Un menú desplegable para seleccionar la operación matemática.
+- Un campo de solo lectura para mostrar el resultado.
+
+--------------------------------------------------
+3. DESCRIPCIÓN DEL CSS
+--------------------------------------------------
+Los estilos CSS se utilizan para mejorar la apariencia y usabilidad:
+- Fuente sans-serif para mejor legibilidad.
+- Diseño centrado con fondo claro.
+- Contenedor con bordes redondeados y sombra.
+- Campos de entrada con enfoque visual al seleccionar.
+- Campo de resultado destacado con color y negrita.
+
+--------------------------------------------------
+4. LÓGICA EN JAVASCRIPT
+--------------------------------------------------
+JavaScript se encarga de la funcionalidad principal de la calculadora.
+
+Funciones principales:
+- Obtención de referencias a los elementos del DOM.
+- Conversión de los valores ingresados a números decimales.
+- Validación de datos para evitar entradas inválidas.
+- Ejecución de operaciones matemáticas: suma, resta, multiplicación y división.
+- Manejo de errores, como la división entre cero.
+- Actualización automática del resultado.
+
+--------------------------------------------------
+5. CÁLCULO EN TIEMPO REAL
+--------------------------------------------------
+El cálculo se realiza automáticamente cada vez que:
+- El usuario modifica alguno de los números.
+- El usuario cambia la operación seleccionada.
+
+Esto elimina la necesidad de un botón de cálculo y mejora la experiencia del usuario.
+
+--------------------------------------------------
+6. CARACTERÍSTICAS PRINCIPALES
+--------------------------------------------------
+- Soporte para números decimales.
+- Interfaz simple e intuitiva.
+- Validación básica de errores.
+- Código claro y fácil de mantener.
+- Ideal como ejemplo educativo de JavaScript y DOM.
+
+--------------------------------------------------
+7. USO RECOMENDADO
+--------------------------------------------------
+Este proyecto es adecuado para:
+- Prácticas de desarrollo web básico.
+- Ejemplos educativos.
+- Prototipos sencillos.
+- Aprendizaje de eventos y manipulación del DOM.
